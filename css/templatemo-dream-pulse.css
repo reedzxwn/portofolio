@@ -184,12 +184,7 @@ a {
   opacity: 1;
 }
 
-.tm-main-nav .nav-link:hover {
-  animation-name: blinker;
-  animation-duration: 0.5s;
-  animation-timing-function: ease-in-out;
-  animation-iteration-count: infinite;
-}
+
 
 @keyframes blinker {
   0% {
